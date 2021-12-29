@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsgiant&theme=dracula)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsgiant&theme=dracula)  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jsgiant&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsgiant&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jsgiant&theme=dracula)
+
 <a href="https://app.daily.dev/anil_peddireddy"><img src="https://api.daily.dev/devcards/ae6cca6d661a40e4a63805893f8552b8.png?r=pcw" width="400" alt="Anil Chowdary's Dev Card"/></a>
