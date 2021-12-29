@@ -1,19 +1,11 @@
 ### Hi there 👋
 
-<!--
-**jsgiant/jsgiant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on React JS, TypeScript and Tailwind CSS.
+- 🌱 I’m currently learning Next JS, Express JS and Flutter.
+- 💬 Ask me anything, I will be more than happy to help
+- ⚡ Fun fact: I'm a Web developer😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsgiant&theme=dracula)
 
@@ -22,5 +14,7 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsgiant&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jsgiant&theme=dracula)
+
+#### Here's my dev card from @daily.dev
 
 <a href="https://app.daily.dev/anil_peddireddy"><img src="https://api.daily.dev/devcards/ae6cca6d661a40e4a63805893f8552b8.png?r=pcw" width="400" alt="Anil Chowdary's Dev Card"/></a>
