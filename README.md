@@ -1,4 +1,4 @@
-<h1> Hello, I'm Anil👋 </h1>
+<h1> Hello👋, I'm Anil</h1>
 
 <h2>About me</h2>
 
@@ -8,15 +8,6 @@
 - ⚡ Fun fact: I'm a Web developer😄
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsgiant&theme=dracula)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsgiant&theme=dracula)  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jsgiant&theme=dracula)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsgiant&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jsgiant&theme=dracula)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jsgiant&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <h2>Tech Stack🚀</h2>
 
@@ -48,3 +39,14 @@ Frameworks, Platforms and Libraries
 <a href="https://twitter.com/anil_dev31"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/anil-kumar-peddireddy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:anil.peddireddyy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsgiant&theme=dracula)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsgiant&theme=dracula)  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jsgiant&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsgiant&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jsgiant&theme=dracula)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jsgiant&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
