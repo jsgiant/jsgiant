@@ -7,11 +7,9 @@
 - 💬 Ask me anything, I will be more than happy to help :)
 - ⚡ Fun fact: I'm a Web developer😄
 
-
-
 <h2>Tech Stack🚀</h2>
 
-Frameworks, Platforms and Libraries  
+<h3>Frameworks, Platforms and Libraries</h3>  
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -22,7 +20,7 @@ Frameworks, Platforms and Libraries
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<h2>Languages</h2>
+<h3>Languages</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,7 +28,7 @@ Frameworks, Platforms and Libraries
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-<h2>Design</h2>
+<h3>Design</h3>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -40,6 +38,8 @@ Frameworks, Platforms and Libraries
 <a href="https://www.linkedin.com/in/anil-kumar-peddireddy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:anil.peddireddyy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br>
+<br>
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsgiant&theme=dracula)
 
