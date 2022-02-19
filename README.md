@@ -40,6 +40,7 @@
 <br>
 <br>
 
+<h2>GitHub Stats📈</h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsgiant&theme=dracula)
 
@@ -50,3 +51,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jsgiant&theme=dracula)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jsgiant&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=jsgiant&color=blueviolet)
